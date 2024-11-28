@@ -1,0 +1,16 @@
+﻿using System;
+
+namespace ConsoleFor_Git
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int a = 54;
+            int b = 42;
+            int sum = a + b;
+            Console.WriteLine(sum);
+
+        }
+    }
+}
