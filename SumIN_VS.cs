@@ -8,7 +8,8 @@ namespace ConsoleFor_Git
         {
             int a = 54;
             int b = 42;
-            int sum = a + b;
+            int c
+            int sum = a + b + c;
             Console.WriteLine(sum);
 
         }
