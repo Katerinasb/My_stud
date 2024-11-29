@@ -6,10 +6,11 @@ namespace ConsoleFor_Git
     {
         static void Main(string[] args)
         {
+            List<int> numbers = new List<int> { a, b, c };
             int a = 54;
             int b = 42;
-            int d = 2;
-            int sum = a + (b * d)/10;
+            int c = 2;
+            int sum = numbers.Sum();
             Console.WriteLine(sum);
 
         }
