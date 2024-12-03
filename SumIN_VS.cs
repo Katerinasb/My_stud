@@ -9,7 +9,7 @@ namespace ConsoleFor_Git
             List<int> numbers = new List<int> { a, b, c };
             int a = 54;
             int b = 42;
-            int c = a*b;
+            int c = 2;
             int sum = numbers.Sum();
             Console.WriteLine(sum);
 
