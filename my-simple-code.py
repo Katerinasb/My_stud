@@ -3,4 +3,5 @@ b = 2
 c=0
 if b!=0:
     res=(a+b)/c
-print(res)
+    multiply=a*b
+print(res, multiply)
