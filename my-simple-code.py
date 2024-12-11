@@ -6,3 +6,7 @@ if b!=0:
     multiply=a*b
     divide=a/b
 print(res, multiply, divide)
+for i in range (0,4):
+    degree= a*a
+    i+=1
+print (degree)
